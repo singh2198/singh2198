@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singh2198&label=Profile%20views&color=0e75b6&style=flat" alt="singh2198" /> </p>
 
-- 🌱 I’m currently learning **React.js ,Redux, Node**
+- 🌱 I’m currently learning **React.js ,Redux, Node,Next.js**
 
 - 👨‍💻 All of my projects are available at [https://singh2198.github.io/](https://singh2198.github.io/)
 
