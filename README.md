@@ -9,8 +9,6 @@
 - 👨‍💻 All of my projects are available at [https://singh2198.github.io/](https://singh2198.github.io/)                                                                                                                                
 - 💬 Ask me about **Js,DSA,React.js**
 
-- 📫 How to reach me **8755akash@gmail.com**
-
 - ⚡ Fun fact **I Love sports (Cricket,Football)**
                                                                                                                                        
 
