@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="start">
 <a href="https://www.linkedin.com/in/akash-singh-7ba9a0190/" target="blank"><img align="center" src="https://www.jobentry.in/wp-content/uploads/2021/02/WhatsApp-Image-2021-01-18-at-11.00.09-12.jpeg" alt="https://www.linkedin.com/in/akash-singh-7ba9a0190" height="60" width="80" margin-right="10" /></a>
-<a href="https://www.instagram.com/singhaakash21/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/800px-Instagram-Icon.png" alt="https://www.instagram.com/singhaakash21/" height="50" width="70" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
