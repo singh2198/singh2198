@@ -35,8 +35,11 @@
  <img src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/types.png" alt="tailwind" width="70" height="50"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=singh2198&show_icons=true&locale=en&layout=compact" alt="singh2198" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=singh2198&show_icons=true&locale=en" alt="singh2198" /></p>
+
+<p align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=singh2198&show_icons=true&locale=en" alt="singh2198" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=singh2198&show_icons=true&locale=en&layout=compact" alt="singh2198" /></p>                                                                                                                    
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=singh2198&" alt="singh2198" /></p>
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=singh2198" alt="singh2198" /></p>
+                                                                                           
