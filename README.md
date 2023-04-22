@@ -1,7 +1,10 @@
 
 <!-- <h3 align="center">I am passionate Full Stack Developer </h3> -->
-<img src="https://i.pinimg.com/originals/ab/68/e6/ab68e6d38452d78ac98687865281c5c8.gif" alt="gitreadme" align="center" width=50%" height="50%"/>
-                                                                                                                                              <h1 align="center">Hi 👋, I'm Akash Singh</h1>
+<div align="center">
+ <img src="https://i.pinimg.com/originals/ab/68/e6/ab68e6d38452d78ac98687865281c5c8.gif"  alt="gitreadme" align="center" width=50%" height="50%">
+ </div>
+
+<h1 align="center">Hi👋, I'm Akash Singh</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singh2198&label=Profile%20views&color=0e75b6&style=flat" alt="singh2198" /> </p>
 
